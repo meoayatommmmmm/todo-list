@@ -7,7 +7,7 @@ bot = telebot.TeleBot("8468539381:AAHPewDiHd_B9ttrlRhxJqOx2t9c4v1xinM")
 main_button_1 = telebot.types.ReplyKeyboardMarkup()
 button_1 = telebot.types.KeyboardButton('показать задачу')
 main_button_1.row(button_1)
-
+# овоавоажыажвлп
 def read_py_file():
     return arch.todos
 
